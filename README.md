@@ -7,7 +7,7 @@ Amanda Ahona
 This portfolio highlights my personality.
 
 ## Check out the website
-
+[https://ah0na.github.io/portfolio_landingpage/]
 ## Bugs
 i am still learning how to style.
 
