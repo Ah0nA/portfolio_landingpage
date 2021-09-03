@@ -1,0 +1,154 @@
+/* /* .header{
+} */
+body{
+  background-color: ghostwhite;
+  
+  
+  }
+  li{
+    list-style: none;
+    padding: 20px;
+    line-height:20px;
+    display: inline;
+  }
+  
+    /* Navbar */
+  .navbar{
+    display: flex;
+    justify-content: center;
+    background-color: silver;
+    align-items: flex-end;
+    position: relative;
+  
+  }
+  
+  .navbar ul{
+     display: flex;
+     list-style: none;
+     margin:30px ;
+     text-align: center;
+  }
+  
+  
+  .navbar ul{
+     font-family: cursive;
+     font-style: italic;
+     font-stretch: normal;
+     font-size: 200%;
+  
+  
+  } 
+  
+  .navbar ul a{
+    color: lightcyan;
+    text-decoration: rgba(2, 2, 2, 0.932);
+    padding: 20px;
+    transition: all .9s ease;
+  
+  
+  }
+  
+  .navbar ul li a:hover{
+    background-color: indigo;
+    color: black;
+    box-shadow: cornsilk;
+  
+  
+  }
+  
+  .over{
+      font-size: medium;
+      text-align: center;
+      justify-content: center;
+      color: rgba(2, 2, 2, 0.932);
+      background-color: rgb(95, 100, 93);
+      list-style: none;
+      padding: 50px;
+      margin:  10px;
+  }
+  
+  .abt-head{
+  color: olive;
+  font-size: x-large;
+  font-style: italic;
+  font-display: initial;
+  }
+  
+  .aha > img{
+      float: left;
+  }
+  
+  body h3{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    box-shadow: dimgrey;
+  }
+    
+  
+  
+  body p{
+    font-family: century;
+    font-size: x-large;
+  
+  }
+  body {
+    color:black;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: darkolivegreen;
+  }
+  
+  
+  input[type=submit] {
+  background-color: midnightblue;
+  color: rgba(2, 2, 2, 0.932);
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  
+  }
+  
+  
+  input[type=submit]:hover {
+  background-color: silver;
+  }
+  
+  
+  
+  
+  input[type=text], select, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  }
+  
+  input[type=submit] {
+  background-color: rgba(2, 2, 2, 0.932);
+  color: teal;
+  padding: 20px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+  background-color: moccasin;
+  }
+  
+  .container {
+  border-radius: 5px;
+  background-color: navy;
+  padding: 20px;
+  }
+  body{
+  background-color: slategrey;}
+  
+  
