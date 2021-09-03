@@ -151,8 +151,11 @@ body{
   body{
   background-color: slategrey;}
   .page{
+   display: block;
+   justify-content: space-evenly;
+   list-style-type: circle;
+   
 
-    
   }
   
   
